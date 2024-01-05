@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=2+years+of+industry+experience;Worked+on+2+successful+projects;Holds+ACE+certification+from+Google;Experienced+in+big+data+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=3+years+of+industry+experience;Worked+on+2+successful+projects;Holds+ACE+certification+from+Google;Experienced+in+big+data+technologies" alt="Typing SVG" /></a>
 </p>
 <br><br>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **deepankarcse2@gmail.com**
 
-- ⚡ Fun fact **I ride a bike, therefore I set aside money for a FZ-X for a year. The longest ride I've ever taken was 650 kilometres long and took me 10 hours to complete from Gurgaon to Udaipur (Including 3 breaks in between). I'm very proud of that trip, and I intend to shortly complete a Delhi-Ladakh circuit.**
+- ⚡ Fun fact **I ride a bike, The longest ride I've ever taken was 650 kilometres long and took me 10 hours to complete from Gurgaon to Udaipur (Including 3 breaks in between). I'm very proud of that trip, and I intend to shortly complete a Delhi-Ladakh circuit.**
 
 <br><br>
 <h2 align="left">Connect with me:</h2>
