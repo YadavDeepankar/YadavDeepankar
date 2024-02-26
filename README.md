@@ -9,11 +9,9 @@
 <h2 align="left">About me:</h2>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/42946492/216840869-fd38a37b-2443-4a45-bf51-87e2e2bebb77.gif">
 
-- 🔭 I’m currently working in **Tata Consultancy Services**
+- 🔭 I’m currently working in **Cognizant**
 
 - 🌱 I’m currently learning **Apache Spark, Cloud technologies**
-
-- 👯 I’m looking to collaborate on **Big Data projects**
 
 - 💬 Ask me about **Data Engineering, Apache Spark**
 
