@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/d33pankar/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42946492/216838365-82a7ca90-e509-4bab-bac0-edcac389454d.svg" alt="d33pankar/" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/rootless_wandrer" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42946492/216838537-df007ee8-7b45-4a83-9df2-1f3d60f0fe41.svg" alt="rootless_wandrer" height="30" width="40" /></a> &nbsp;&nbsp;
-<a href="https://medium.com/@deepankarcse2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@deepankarcse2" height="30" width="40" /></a>
+<a href="https://hashnode.com/bytesofdeepankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="bytesofdeepankar" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@deepankarcse2" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42946492/216838539-64ad0b8b-fc37-4fdd-96b6-76bcec75d473.svg" alt="@deepankarcse2" height="30" width="40" /></a> &nbsp;&nbsp;
 </p>
 
