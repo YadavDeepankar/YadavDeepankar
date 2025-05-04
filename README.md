@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Engineer from India</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=3+years+of+industry+experience;Worked+on+2+successful+projects;Holds+ACE+certification+from+Google;Experienced+in+big+data+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=4+years+of+industry+experience;Worked+in+BFSI,+Retail,+Life-Science+domains+of+Data+Engineering;Holds+ACE+certification+from+Google;Experienced+in+big+data+technologies" alt="Typing SVG" /></a>
 </p>
 <br><br>
 
