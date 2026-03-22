@@ -2,26 +2,32 @@
   <img src="https://github.com/user-attachments/assets/1226b75f-2370-4626-8a71-c21d0b907145" width="100%" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=DEEPANKAR" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=DEEPANKAR" />
 </p>
 
-
-
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/d33pankar">
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://instagram.com/deepankar007">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://bytesofdeepankar.hashnode.dev/">
     <img src="https://img.shields.io/badge/Hashnode-white?style=for-the-badge&logo=hashnode&logoColor=black" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://yadavdeepankar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </p>
+
 ---
 
 Hey there 👋,
@@ -54,8 +60,6 @@ I believe in writing systems that are:
 ---
 
 ### My Digital Garden 🌱
-
-I write about data engineering, things I learn, and problems I solve along the way.
 
 👉 https://bytesofdeepankar.hashnode.dev/
 
