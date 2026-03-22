@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/deepankar007">
+  <a href="https://instagram.com/deepankar_007">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" />
   </a>
   &nbsp;&nbsp;
