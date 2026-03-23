@@ -42,17 +42,12 @@
 
 ### 🧠 About Me
 
--   🚀 5+ years in Data Engineering (BFSI, Life Sciences, Retail)
+🚀 5+ years in Data Engineering (BFSI, Life Sciences, Retail)  
+⚡ Reduced pipeline runtime by **73% (40h → 10.5h)**  
+🏗️ Strong in **PySpark, SQL, Airflow, AWS, Databricks**  
+🧩 Experience in **Medallion Architecture & SCD Type 3**  
+🤝 Worked with **American Express, Regeneron, Lloyds Banking Group**
     
--   ⚡ Reduced pipeline runtime by **73% (40h → 10.5h)**
-    
--   🏗️ Strong in **PySpark, SQL, Airflow, AWS, Databricks**
-    
--   🧩 Experience in **Medallion Architecture & SCD Type 3**
-    
--   🤝 Worked with **American Express, Regeneron, Lloyds Banking Group**
-    
-
 💡 I focus on building **production-grade, scalable, high-performance data systems** — not just pipelines.
 
 ---
@@ -89,25 +84,21 @@
 
 ### 📊 What I Do
 
-✔️ Design scalable distributed data pipelines  
-✔️ Optimize performance & reduce processing cost  
-✔️ Migrate legacy systems → modern cloud architectures  
-✔️ Build reliable orchestration workflows  
-✔️ Deliver clean, analytics-ready datasets
+Design scalable distributed data pipelines  
+Optimize performance & reduce processing cost  
+Migrate legacy systems → modern cloud architectures  
+Build reliable orchestration workflows  
+Deliver clean, analytics-ready datasets
 
 ---
 
 ### 🏆 Key Highlights
 
--   ⚡ 73% runtime optimization on critical pipeline
-    
--   📈 20% performance improvement via Spark tuning
-    
--   🧩 Built MDM pipelines using Medallion Architecture
-    
--   🔁 Migrated Parquet → Iceberg (future-ready data lake)
-    
--   👨‍💻 Led teams & mentored developers
+⚡ 73% runtime optimization on critical pipeline  
+📈 20% performance improvement via Spark tuning  
+🧩 Built MDM pipelines using Medallion Architecture  
+🔁 Migrated Parquet → Iceberg (future-ready data lake)  
+👨‍💻 Led teams & mentored developers
     
 
 ---
@@ -116,9 +107,8 @@
 
 Outside work, I enjoy long-distance bike rides.
 
--   🏁 Gurgaon → Udaipur (**650 KM in ~10 hours**)
-    
--   🎯 Next goal: **Delhi → Ladakh**
+🏁 Gurgaon → Udaipur (**650 KM in ~10 hours**)  
+🎯 Next goal: **Delhi → Ladakh**
     
 
 ---
