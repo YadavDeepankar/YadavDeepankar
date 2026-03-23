@@ -103,13 +103,23 @@ Deliver clean, analytics-ready datasets
 
 ---
 
-### 🚴 A bit beyond code
+### 🏔️ Beyond Code
 
-Outside work, I enjoy long-distance bike rides.
+**I love trekking.** I've explored the lower and middle Himalayas and am now moving toward high-altitude crossover passes.
 
-🏁 Gurgaon → Udaipur (**650 KM in ~10 hours**)  
-🎯 Next goal: **Delhi → Ladakh**
-    
+* **Completed:**
+    * Nag Tibba (The 1st one!) 
+    * Kheerganga
+    * Tungnath-Chandrashila
+    * Kedarkantha
+    * Shangarh fort
+
+* **The Bucket List:**
+    * [ ] **Hampta Pass** (Kullu to Spiti Crossover)
+    * [ ] **Buran Ghati** (For the legendary ice-slide)
+    * [ ] **Kuari Pass** (To see Nanda Devi up close)
+
+
 
 ---
 
