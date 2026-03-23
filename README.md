@@ -28,58 +28,102 @@
   </a>
 </p>
 
----
 
-Hey there 👋,
-
-I'm **Deepankar Yadav**, a Big Data Engineer with 5+ years of experience building scalable data systems across **BFSI, Retail, and Life Sciences**.
-
-I enjoy working on systems that deal with large-scale data, improving performance, and making pipelines reliable and production-ready. Currently, I’m pursuing my **MTech in Cloud Computing at IIT Patna**, deepening my understanding of cloud-native architectures and modern data platforms.
 
 ---
 
-### What I do
+### 👋 Hey, I'm Deepankar Yadav
 
-- Build and optimize **PySpark-based data pipelines**
-- Migrate legacy systems (MapReduce → modern data stack)
-- Design scalable architectures (Medallion, Iceberg, MDM systems)
-- Improve performance and reduce processing cost
-
-Recently, I optimized a critical pipeline from **40 hours → 10.5 hours (73% reduction)**.
+🚀 **Data Engineer specializing in Big Data & Cloud**  
+🎓 MTech (Cloud Computing) @ IIT Patna  
+⚡ **Proven impact: 73% runtime reduction • Building high-performance data systems**
 
 ---
 
-### My Engineering Approach
+### 🧠 About Me
 
-I believe in writing systems that are:
-- Simple to understand  
-- Scalable by design  
-- Observable and debuggable  
-- Efficient in both cost and performance  
+-   🚀 5+ years in Data Engineering (BFSI, Life Sciences, Retail)
+    
+-   ⚡ Reduced pipeline runtime by **73% (40h → 10.5h)**
+    
+-   🏗️ Strong in **PySpark, SQL, Airflow, AWS, Databricks**
+    
+-   🧩 Experience in **Medallion Architecture & SCD Type 3**
+    
+-   🤝 Worked with **American Express, Regeneron, Lloyds Banking Group**
+    
 
----
-
-### My Digital Garden 🌱
-
-👉 https://bytesofdeepankar.hashnode.dev/
-
----
-
-### A bit beyond code
-
-Outside work, I enjoy long-distance bike rides.  
-One of my favorites — **Gurgaon → Udaipur (650 KM in ~10 hours)**.  
-Next goal: **Delhi to Ladakh**.
+💡 I focus on building **production-grade, scalable, high-performance data systems** — not just pipelines.
 
 ---
 
-### Tech I work with
+### ⚙️ Tech Stack
 
-`PySpark` `Spark` `AWS` `Airflow` `SQL` `Python` `Iceberg` `Hadoop`
+#### 🚀 Data & Processing
+
+`PySpark` `Apache Spark` `Hadoop` `Python`
+
+#### ☁️ Cloud & Platforms
+
+`AWS (S3, EC2)` `Databricks` `Iceberg`
+
+#### 🔄 Orchestration & DevOps
+
+`Airflow` `Jenkins` `GitHub Actions` `CI/CD`
+
+#### 🗄️ Storage & Query
+
+`PostgreSQL` `Hive` `Impala`
+
+#### 💻 Languages
+
+`Python` `SQL` `Scala` `Bash`
 
 ---
 
-## 🧠 Random Dev Thought
+### 🌱 My Digital Garden
+
+👉 [https://bytesofdeepankar.hashnode.dev/](https://bytesofdeepankar.hashnode.dev/)
+
+---
+
+### 📊 What I Do
+
+✔️ Design scalable distributed data pipelines  
+✔️ Optimize performance & reduce processing cost  
+✔️ Migrate legacy systems → modern cloud architectures  
+✔️ Build reliable orchestration workflows  
+✔️ Deliver clean, analytics-ready datasets
+
+---
+
+### 🏆 Key Highlights
+
+-   ⚡ 73% runtime optimization on critical pipeline
+    
+-   📈 20% performance improvement via Spark tuning
+    
+-   🧩 Built MDM pipelines using Medallion Architecture
+    
+-   🔁 Migrated Parquet → Iceberg (future-ready data lake)
+    
+-   👨‍💻 Led teams & mentored developers
+    
+
+---
+
+### 🚴 A bit beyond code
+
+Outside work, I enjoy long-distance bike rides.
+
+-   🏁 Gurgaon → Udaipur (**650 KM in ~10 hours**)
+    
+-   🎯 Next goal: **Delhi → Ladakh**
+    
+
+---
+
+#### 🧠 Random Dev Thought
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
