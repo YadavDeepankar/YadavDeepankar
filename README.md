@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YadavDeepankar/YadavDeepankar/main/blink.svg" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=1&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&lines=DEEPANKAR" />
 </p>
 
 <br>
