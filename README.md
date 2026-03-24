@@ -112,7 +112,7 @@ Deliver clean, analytics-ready datasets
     * Kheerganga
     * Tungnath-Chandrashila
     * Kedarkantha
-    * Shangarh fort
+    * Raghupur fort (Shoja)
 
 * **The Bucket List:**
     * [ ] **Hampta Pass** (Kullu to Spiti Crossover)
