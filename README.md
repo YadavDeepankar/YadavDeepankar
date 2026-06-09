@@ -105,7 +105,8 @@ Deliver clean, analytics-ready datasets
 
 ### 🏔️ Beyond Code
 
-**I love trekking.** I've explored the lower and middle Himalayas and am now moving toward high-altitude crossover passes.
+**I love trekking.** When I'm not optimizing data pipelines, you'll usually find me somewhere in the mountains.
+I enjoy trekking, high-altitude adventures, and pushing my comfort zone outdoors. Over the years, I've explored parts of the lower and middle Himalayas and recently started adding adventure sports to the journey.
 
 * **Completed:**
     * Nag Tibba (The 1st one!) 
@@ -113,13 +114,17 @@ Deliver clean, analytics-ready datasets
     * Tungnath-Chandrashila
     * Kedarkantha
     * Raghupur fort (Shoja)
+    * Triund Trek
+
+* **Adventure Milestones:**
+    * First Paragliding Flight at Bir Billing (April 2026)
 
 * **The Bucket List:**
     * [ ] **Hampta Pass** (Kullu to Spiti Crossover)
     * [ ] **Buran Ghati** (For the legendary ice-slide)
     * [ ] **Kuari Pass** (To see Nanda Devi up close)
 
-
+Mountains teach the same lessons as distributed systems: preparation matters, resilience wins, and every summit reveals a bigger challenge ahead.
 
 ---
 
