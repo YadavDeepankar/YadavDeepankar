@@ -34,7 +34,7 @@
 
 ### 👋 Hey, I'm Deepankar Yadav
 
-🚀 **Data Engineer specializing in Big Data & Cloud**  
+🚀 **Data Engineer specializing in Big Data + genAI with exposure to Cloud**  
 🎓 MTech (Cloud Computing) @ IIT Patna  
 ⚡ **Proven impact: 73% runtime reduction • Building high-performance data systems**
 
@@ -115,6 +115,7 @@ I enjoy trekking, high-altitude adventures, and pushing my comfort zone outdoors
     * Kedarkantha
     * Raghupur fort (Shoja)
     * Triund Trek
+    * Leh-Ladakh 8 days solo bike expedition 
 
 * **Adventure Milestones:**
     * First Paragliding Flight at Bir Billing (April 2026)
